@@ -7,7 +7,7 @@ Home: https://github.com/aio-libs/aiohappyeyeballs
 
 Package license: PSF-2.0
 
-Summary: Happy Eyeballs
+Summary: Happy Eyeballs for asyncio
 
 Current build status
 ====================
