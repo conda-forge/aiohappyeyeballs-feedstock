@@ -1,5 +1,5 @@
 {% set name = "aiohappyeyeballs" %}
-{% set version = "2.6.1" %}
+{% set version = "2.6.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/aiohappyeyeballs-{{ version }}.tar.gz
-  sha256: c3f9d0113123803ccadfdf3f0faa505bc78e6a72d1cc4806cbd719826e943558
+  sha256: e202810ee718bd01fc6ef49e8ea53d023d5cb6b581076d7925aa499fa55dbe64
 
 build:
   noarch: python
